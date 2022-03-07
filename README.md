@@ -8,8 +8,6 @@ This is a Node and Express web application built to run in a Docker container. I
 
 ### Author
 
-Mike Pfeiffer
-[@mike_pfeiffer](https://twitter.com/mike_pfeiffer)
 
 ### Version
 
